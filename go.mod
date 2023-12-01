@@ -1,5 +1,4 @@
-module github.com/olivere/elastic/v7
-
+module github.com/DaniilD/elastic/v7
 go 1.17
 
 require (
