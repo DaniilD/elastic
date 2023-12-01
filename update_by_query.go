@@ -11,7 +11,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/DaniilD/elastic/v7/uritemplates"
+	"github.com/DaniilD/elastic/uritemplates"
 )
 
 // UpdateByQueryService is documented at https://www.elastic.co/guide/en/elasticsearch/plugins/master/plugins-reindex.html.

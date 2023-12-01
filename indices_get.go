@@ -11,7 +11,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/DaniilD/elastic/v7/uritemplates"
+	"github.com/DaniilD/elastic/uritemplates"
 )
 
 // IndicesGetService retrieves information about one or more indices.

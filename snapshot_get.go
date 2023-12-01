@@ -13,7 +13,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/DaniilD/elastic/v7/uritemplates"
+	"github.com/DaniilD/elastic/uritemplates"
 )
 
 // SnapshotGetService lists the snapshots on a repository

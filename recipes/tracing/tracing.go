@@ -31,8 +31,8 @@ import (
 	jaegerexpvar "github.com/uber/jaeger-lib/metrics/expvar"
 	"golang.org/x/sync/errgroup"
 
-	"github.com/DaniilD/elastic/v7"
-	"github.com/DaniilD/elastic/v7/trace/opentracing"
+	"github.com/DaniilD/elastic"
+	"github.com/DaniilD/elastic/trace/opentracing"
 )
 
 func main() {

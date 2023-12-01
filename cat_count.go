@@ -11,7 +11,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/DaniilD/elastic/v7/uritemplates"
+	"github.com/DaniilD/elastic/uritemplates"
 )
 
 // CatCountService provides quick access to the document count of the entire cluster,

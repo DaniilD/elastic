@@ -11,7 +11,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/DaniilD/elastic/v7/uritemplates"
+	"github.com/DaniilD/elastic/uritemplates"
 )
 
 // ClusterHealthService allows to get a very simple status on the health of the cluster.

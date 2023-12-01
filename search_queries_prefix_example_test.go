@@ -7,7 +7,7 @@ package elastic_test
 import (
 	"context"
 
-	"github.com/DaniilD/elastic/v7"
+	"github.com/DaniilD/elastic"
 )
 
 func ExamplePrefixQuery() {

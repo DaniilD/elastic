@@ -25,7 +25,7 @@ import (
 
 	"github.com/fortytw2/leaktest"
 
-	"github.com/DaniilD/elastic/v7/config"
+	"github.com/DaniilD/elastic/config"
 )
 
 func findConn(s string, slice ...*conn) (int, bool) {

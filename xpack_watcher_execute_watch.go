@@ -12,7 +12,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/DaniilD/elastic/v7/uritemplates"
+	"github.com/DaniilD/elastic/uritemplates"
 )
 
 // XPackWatcherExecuteWatchService forces the execution of a stored watch.

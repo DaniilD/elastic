@@ -22,7 +22,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/DaniilD/elastic/v7"
+	"github.com/DaniilD/elastic"
 )
 
 const (

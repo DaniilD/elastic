@@ -16,7 +16,7 @@ import (
 	"net/http"
 	"sync/atomic"
 
-	"github.com/DaniilD/elastic/v7"
+	"github.com/DaniilD/elastic"
 )
 
 // CountingTransport will count requests.

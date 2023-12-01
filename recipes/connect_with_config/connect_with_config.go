@@ -15,8 +15,8 @@ import (
 	"log"
 	"runtime"
 
-	"github.com/DaniilD/elastic/v7"
-	"github.com/DaniilD/elastic/v7/config"
+	"github.com/DaniilD/elastic"
+	"github.com/DaniilD/elastic/config"
 )
 
 func main() {

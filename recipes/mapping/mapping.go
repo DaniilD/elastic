@@ -19,7 +19,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/DaniilD/elastic/v7"
+	"github.com/DaniilD/elastic"
 )
 
 const (

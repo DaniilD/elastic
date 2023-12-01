@@ -1,4 +1,4 @@
-module github.com/DaniilD/elastic/v7
+module github.com/DaniilD/elastic
 
 go 1.17
 
