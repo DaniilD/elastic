@@ -6,7 +6,7 @@ package elastic
 
 import (
 	"bytes"
-	"encoding/json"
+	json "github.com/goccy/go-json"
 )
 
 // Decoder is used to decode responses from Elasticsearch.
